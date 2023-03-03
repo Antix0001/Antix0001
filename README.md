@@ -6,8 +6,8 @@
 >>> Name - Antix
 >>> Language - Python, C, C+
 >>> Country - India
->>> Working on - ['Token-Gen', 'Token-Joiner', 'Boost bot']
->>> Discord Tag - Antix#0013```
+>>> Working_on - ['Token-Gen', 'Token-Joiner', 'Boostbot']
+>>> Discord Tag - Antix#0013
 
 ```
 
