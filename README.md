@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Antix</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-```yaml\nok```
+```yaml\nclass Main():
+  def __init__(self):
+    self.name = "Mouad"
+    self.projects_in_bound = ["Discord token generator", "Discord member booster", "Discord captcha solver"]
+  def run(self):
+    print(f"Name: {self.name}\nProjects: {self.projects_in_bound}")
+    
+Main().run()```
 
 <p align="left">
 </p>
